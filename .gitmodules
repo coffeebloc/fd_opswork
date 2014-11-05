@@ -1,0 +1,4 @@
+
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/opscode-cookbooks/rabbitmq.git
